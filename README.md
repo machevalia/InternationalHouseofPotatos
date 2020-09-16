@@ -1,2 +1,2 @@
 # InternationalHouseofPotatos
-Compile Potato
+Compiled Potato
